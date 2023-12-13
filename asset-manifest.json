@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/denzelbautistaProy-122/static/css/main.2a6117de.css",
-    "main.js": "/denzelbautistaProy-122/static/js/main.3c33530f.js",
+    "main.js": "/denzelbautistaProy-122/static/js/main.960614f4.js",
     "static/js/787.99cf36d0.chunk.js": "/denzelbautistaProy-122/static/js/787.99cf36d0.chunk.js",
     "static/media/pesas.jpg": "/denzelbautistaProy-122/static/media/pesas.a5219e65855d1148a152.jpg",
     "static/media/TenisUltimoModelo.jpg": "/denzelbautistaProy-122/static/media/TenisUltimoModelo.8582efd05732614413c4.jpg",
@@ -44,11 +44,11 @@
     "static/media/nav-icon1.svg": "/denzelbautistaProy-122/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/denzelbautistaProy-122/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.2a6117de.css.map": "/denzelbautistaProy-122/static/css/main.2a6117de.css.map",
-    "main.3c33530f.js.map": "/denzelbautistaProy-122/static/js/main.3c33530f.js.map",
+    "main.960614f4.js.map": "/denzelbautistaProy-122/static/js/main.960614f4.js.map",
     "787.99cf36d0.chunk.js.map": "/denzelbautistaProy-122/static/js/787.99cf36d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a6117de.css",
-    "static/js/main.3c33530f.js"
+    "static/js/main.960614f4.js"
   ]
 }
